@@ -2,11 +2,11 @@
 
 #### 不建议在虚拟机下使用
 
-### 第一种安装方法(适用于Mac OS)：
+### 第一种安装方法：
 
 打开终端，执行下面的命令就自动安装好了：
 ```sh
-wget -qO- https://raw.github.com/ma6174/vim/master/setup.sh | sh -x
+wget -qO- https://github.com/Hantingsheng/Vim/setup.sh | sh -x
 ```
 
 ### 第二种安装方法(适用于任意Linux系统)：
@@ -17,7 +17,7 @@ sudo bash setup.sh
 ```
 就自动安装好了.
 
-### 第三种安装方法(适用于任意Linux系统)：
+### 第三种安装方法(以Ubuntu为例)：
 
 - 打开终端
 
